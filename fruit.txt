@@ -1,1 +1,3 @@
-바탕화면에서 수정한다고
+apple
+banana
+kiwi
